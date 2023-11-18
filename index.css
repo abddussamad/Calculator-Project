@@ -1,0 +1,27 @@
+.calculator {
+	height: 525px;
+	width: 291px;
+	margin: auto;
+	border: 1px solid #f6910c;
+  background: rgb(26, 25, 25);
+  border-radius: 10px;
+}
+#display {
+	width: 88%;
+	height: 59px;
+  margin: 14px;
+  font-size: 28px;
+  color: #f6910c;
+
+}
+.cal-container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.btn {
+	height: 60px;
+	width: 80px;
+	margin: 5px;
+	font-size: 23px;
+}
